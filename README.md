@@ -98,7 +98,7 @@ The following functions and methods in this code are:
 - `mean = X.mean()
    sigma = X.std()`: Setting both variables to the aggregate function of *Mean* and *Standard Deviation*
 - `X_normalized = (X - mean) / sigma`: function of normalized array
-  > Where X is the element, mean is the mean of the 25 element, sigma is the population standard deviation
+  > Where *X* is the element, *mean* is the mean of the 25 element, *sigma* is the population standard deviation
 - `print("PROBLEM A: REPRODUCIBLE NORMALIZATION\n")`: Prints the header of the code
 - `print("Original Array X:\n", X)`: Prints the original array X
 - `print("\nNormalized Array X_normalized:\n", X_normalized)`: Prints the normalized array X using the function
