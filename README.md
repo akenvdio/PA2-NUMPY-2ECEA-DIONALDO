@@ -161,7 +161,7 @@ The following functions and methods in this code are:
 - `np.save("div_by_4.npy", div_by_4)`: saves the np file of div_by_4
 
 - ---
-#### **B. CUBES DIVISIBLE BY 4 PROBLEM**
+#### **C. ABOVE-MEAN SQUARES PROBLEM**
 Create a 6 × 6 ndarray named S containing the squares of the first 36 positive integers in increasing
 row-major order. Compute the mean of all elements of S and store it in S mean. Then use Boolean
 filtering to select only the elements strictly greater than S mean. Store these values in above mean.
@@ -215,7 +215,7 @@ row-major order.
 - `print ("ABOVE-MEAN SQUARES PROBLEM\n")`: Prints the header of the code
 - `print ("Array S:\n", S)`: Prints the original array S
 - `print ("\nMean:", S_mean)`: Prints the mean of the original array S
-- `print ("Above Mean Array:\n", above_mean)`: Prints the array S with elements that satisfies the boolean condition where elements must be above the mean
+- `print ("Above Mean Array:\n", above_mean)`: Prints the elements that satisfies the  condition where elements must be above the mean using boolean indexing which flattens the array into 1d
 - `print ("\nNumber of selected elements:", len(above_mean))`: Prints the number of selected elements in the array S where above_mean elements are printed
 - `np.save("above_mean.npy", above_mean)`: saves the np file of above_mean
 
