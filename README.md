@@ -40,7 +40,7 @@ Z = (X - x¯) / σ
 where x¯ is the mean of all 25 elements and σ is their population standard deviation as returned by
 NumPy’s default std() call. Store the normalized array in X normalized.
 
-**Required checks**: Display X, X normalized, its mean, and its standard deviation. Up to floatingpoint rounding, the normalized mean must be 0 and the normalized standard deviation must be 1.
+**Required checks**: Display X, X normalized, its mean, and its standard deviation. Up to floating point rounding, the normalized mean must be 0 and the normalized standard deviation must be 1.
 
 Save the normalized array as:
 ```
