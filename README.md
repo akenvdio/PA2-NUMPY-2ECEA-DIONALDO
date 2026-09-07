@@ -1,7 +1,7 @@
-# PA1 | ECE2112 | EXPERIMENT 1 | DIONALDO, PVA
+# PA2 | ECE2112 | EXPERIMENT 2 | DIONALDO, PVA
 ---
-### **Introduction to Python Programming**
-#### Submitted by Pierre Van Aken A. Dionaldo | 2ECE-A | 09.01.2026
+### **NUMPY**
+#### Submitted by Pierre Van Aken A. Dionaldo | 2ECE-A | 09.08.2026
 
 This repository showcases the objective and detailed discussion of the experiment from the Programming Assignment 2 last September 1, 2026 where the class discussed Module 2 - **Numpy and Pandas**
 
