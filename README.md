@@ -3,7 +3,7 @@
 ### **NUMPY**
 #### Submitted by Pierre Van Aken A. Dionaldo | 2ECE-A | 09.08.2026
 
-This repository showcases the objective and detailed discussion of the experiment from the Programming Assignment 2 last September 1, 2026 where the class discussed Module 2 - **Numpy and Pandas**
+This repository showcases the objective and detailed discussion of the experiment from the Programming Assignment 2 last September 1, 2026 where the class discussed Module 2 - **Numerical Python (NUMPY)**
 
 ---
 ### **Objectives**
