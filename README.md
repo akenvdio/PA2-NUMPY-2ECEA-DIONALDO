@@ -218,9 +218,7 @@ row-major order.
 - `print ("Above Mean Array:\n", above_mean)`: Prints the elements that satisfies the  condition where elements must be above the mean using boolean indexing which flattens the array into 1d
 - `print ("\nNumber of selected elements:", len(above_mean))`: Prints the number of selected elements in the array S where above_mean elements are printed
 - `np.save("above_mean.npy", above_mean)`: saves the np file of above_mean
-
----
-To view program file for PA2 please visit this link PA2_2ECEA_DIONALDO.ipynb and download. Open on Jupyter Notebook or Google Colab and run all cells.
+To view program file for PA2 please visit this link https://github.com/akenvdio/PA2-NUMPY-2ECEA-DIONALDO/blob/main/PA2_2ECEA_DIONALDO.ipynb and download. Open on Jupyter Notebook or Google Colab and run all cells.
 ---
 ##**README File Version History**
 - September 8, 2026 - Upload .ipynb file
