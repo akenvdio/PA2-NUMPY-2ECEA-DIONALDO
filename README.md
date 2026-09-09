@@ -219,7 +219,7 @@ row-major order.
 - `print ("\nNumber of selected elements:", len(above_mean))`: Prints the number of selected elements in the array S where above_mean elements are printed
 - `np.save("above_mean.npy", above_mean)`: saves the np file of above_mean
 
-To view program file for PA2 please visit this link [[PA2_2ECEA_DIONALDO.ipynb] (https://github.com/akenvdio/PA2-NUMPY-2ECEA-DIONALDO/blob/main/PA2_2ECEA_DIONALDO.ipynb) ](https://github.com/akenvdio/PA2-NUMPY-2ECEA-DIONALDO/blob/a0d3f211b9429116e130b408a4ad3cab96823d5b/PA2_2ECEA_DIONALDO.ipynb)and download. Open on Jupyter Notebook or Google Colab and run all cells.
+To view program file for PA2 please visit this link [PA2_2ECEA_DIONALDO.ipynb](https://github.com/akenvdio/PA2-NUMPY-2ECEA-DIONALDO/blob/85345c0aa36f7f3846202ad886a9e8403f8f1152/PA2_2ECEA_DIONALDO.ipynb) and download. Open on Jupyter Notebook or Google Colab and run all cells.
 
 ---
 
