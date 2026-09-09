@@ -220,4 +220,16 @@ row-major order.
 - `np.save("above_mean.npy", above_mean)`: saves the np file of above_mean
 
 ---
+To view program file for PA2 please visit this link PA2_2ECEA_DIONALDO.ipynb and download. Open on Jupyter Notebook or Google Colab and run all cells.
+---
+##**README File Version History**
+- September 8, 2026 - Upload .ipynb file
+- September 8, 2026 - Upload README File
+- September 8, 2026 - Upload X_normalized.npy file
+- September 8, 2026 - Upload above_mean.npy file
+- September 8, 2026 - Upload div_by_4.npy file
+- September 9, 2026 - Updated README File
+- September 10, 2026 - Updated README File
+
+---
 ### **END OF NOTEBOOK**
